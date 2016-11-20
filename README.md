@@ -23,8 +23,7 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
  * Take a sample of dates in the past. The sample will be added to incrementally, and it will
    consist of the Fridays in all weeks starting from the week of Nov. 18 2016 and adding
    data incrementally forwards and backwards in time.
- * Use archive.org to get the front page of Breitbart on that day, using whichever snapshot is
-   closest in time to 12PM EST.
+ * Use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
  * Categorize each headline into one of the following categories (make more if necessary):
      true, false, unverifiable, opinion, misleading
    In each case record the explanation for the categorization (e.g., verified by an independent,
