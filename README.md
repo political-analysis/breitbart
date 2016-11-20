@@ -33,7 +33,7 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
    In each case record the explanation for the categorization (e.g., verified by an independent,
    credible source, refuted by an independent, credible source, etc.) In cases where a headline
-   contains multiple claims, each claim should be rated separately as if it were two headlines.
+   contains multiple claims, each claim should be rated and counted separately.
 
 Data analysis methodology will be to give a count of the number of headlines in each of the categories.
 
