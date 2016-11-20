@@ -31,9 +31,8 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    * Opinion: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
    * Misleading: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
    * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
- * In each case record the explanation for the categorization (e.g., verified by an independent,
-credible source, refuted by an independent, credible source, etc.) In cases where a headline
-contains multiple claims, each claim should be rated and counted separately.
+ * In each case record the explanation for the categorization.
+ * In cases where a headline contains multiple claims, each claim should be rated and counted separately.
 
 Data analysis methodology will be to give a count of the number of headlines in each of the categories.
 
