@@ -25,7 +25,12 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    data incrementally forwards and backwards in time.
  * Use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
  * Categorize each headline into one of the following categories (make more if necessary):
-     true, false, unverifiable, opinion, misleading, non-statement
+   * True: A true statement, for our purposes, makes a factual, non-misleading claim about the world which can be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
+   * False: A false statement, for our purposes, makes a factual, verifiable claim about the world which cannot be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
+   * Unverifiable: An unverifiable statement, for our purposes, makes a factual claim about the world which for whatever reason cannot easily be confirmed or denied. Most commonly a claim is unverifiable because Breitbart says that it comes from a private source. A claim being unverifiable does not mean that the claim is false. Unverifiable claims rely on the reader's trust of Breitbart.
+   * Opinion: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
+   * Misleading: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
+   * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
    In each case record the explanation for the categorization (e.g., verified by an independent,
    credible source, refuted by an independent, credible source, etc.) In cases where a headline
    contains multiple claims, each claim should be rated separately as if it were two headlines.
