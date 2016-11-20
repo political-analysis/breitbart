@@ -7,7 +7,7 @@ Viewership
 
 All data in this section is as of Nov. 20 2016.
 
- * Breitbart has Alexa rank #128 in the US (#680 globally). For comparison, nbcnews.com is #127 in the US, and nypost.com is #136 in the US.
+ * Breitbart has Alexa rank #128 in the US (#680 globally). For comparison, nbcnews.com is #127 in the US, bloomberg.com is #133 in the US, and nypost.com is #136 in the US.
  * Alexa estimates 74.4% of Breitbart viewers are in the US.
  * Alexa estimates Breitbart has larger than average female viewership relative to the general Internet population.
  * Alexa estimates Breitbart viewers are more likely than the general Internet population to lack a college degree.
