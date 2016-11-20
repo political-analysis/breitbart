@@ -11,7 +11,7 @@ All data in this section is as of Nov. 20 2016.
  * Alexa estimates 74.4% of Breitbart viewers are in the US.
  * Alexa estimates Breitbart has larger than average female viewership relative to the general Internet population.
  * Alexa estimates Breitbart viewers are more likely than the general Internet population to lack a college degree.
- * Alexa estimates Breitbart viewers are more likely to be browsing the site at school than the general Internet population.
+ * Alexa estimates Breitbart viewers are more likely to be browsing the site at school than the general Internet population, suggesting many Breitbart viewers are students.
 
 Sources: http://www.alexa.com/siteinfo/breitbart.com, http://www.alexa.com/topsites/countries;5/US
 
