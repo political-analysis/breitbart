@@ -28,3 +28,5 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    credible source, refuted by an independent, credible source, etc.)
 
 Data analysis methodology remains to be fleshed out.
+
+The foregoing data should tell us how accurate Breitbart headlines typically are. In addition, we should develop a running log of all Breitbart lies.
