@@ -29,4 +29,4 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
 
 Data analysis methodology remains to be fleshed out.
 
-The foregoing data should tell us how accurate Breitbart headlines typically are. In addition, we should develop a running log of all Breitbart lies.
+The foregoing data should tell us how accurate Breitbart headlines typically are. In addition, we should develop a running log of all known false statements Breitbart has made.
