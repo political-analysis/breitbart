@@ -14,3 +14,17 @@ All data in this section is as of Nov. 20 2016.
  * Alexa estimates Breitbart viewers are more likely to be browsing the site at school than the general Internet population.
 
 Sources: http://www.alexa.com/siteinfo/breitbart.com, http://www.alexa.com/topsites/countries;5/US
+
+Factual Accuracy
+----------------
+
+Planned to do a study of the factual accuracy of Breitbart. Proposed data collection methodology:
+
+ * Take a sample of dates in the past.
+ * Use archive.org to get the front page of Breitbart on that day.
+ * Categorize each headline into one of the following categories (make more if necessary):
+     true, false, unverifiable, opinion, misleading
+   In each case record the explanation for the categorization (e.g., verified by an independent,
+   credible source, refuted by an independent, credible source, etc.)
+
+Data analysis methodology remains to be fleshed out.
