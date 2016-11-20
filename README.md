@@ -1,6 +1,6 @@
 This repo aims to gather some unbiased information about Breitbart.
 
-This repo is from the political-analysis organization, which aims to use the open source methodology to produce unbiased, fact-based political reporting. If you notice anything false or biased, please open an issue so it can be discussed, or submit a pull request with your suggested fix.
+The political-analysis organization, the owner of this repo, aims to use the open source methodology to produce unbiased, fact-based political reporting. If you notice anything false or biased, please open an issue so it can be discussed, or submit a pull request with your suggested fix.
 
 Viewership
 ----------
