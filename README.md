@@ -25,7 +25,7 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    data incrementally forwards and backwards in time.
  * Use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
  * Categorize each headline into one of the following categories (make more if necessary):
-     true, false, unverifiable, opinion, misleading, not statement
+     true, false, unverifiable, opinion, misleading, non-statement
    In each case record the explanation for the categorization (e.g., verified by an independent,
    credible source, refuted by an independent, credible source, etc.) In cases where a headline
    contains multiple claims, each claim should be rated separately as if it were two headlines.
