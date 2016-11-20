@@ -30,6 +30,6 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    In each case record the explanation for the categorization (e.g., verified by an independent,
    credible source, refuted by an independent, credible source, etc.)
 
-Data analysis methodology remains to be fleshed out.
+Data analysis methodology will be to give a count of the number of headlines in each of the categories.
 
 The foregoing data should tell us how accurate Breitbart headlines typically are. In addition, we should develop a running log of all known false statements Breitbart has made.
