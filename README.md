@@ -27,18 +27,20 @@ We are studying the factual accuracy of the factual accuracy of Breitbart headli
  * **OPINION**: 4
  * **NON-STATEMENT**: 4
 
+Here is what the classifications mean:
+
+ * True: A true statement, for our purposes, makes a factual, non-misleading claim about the world which can be verified on the basis of concrete evidence (including video or audio) or confirmation from an independent source which has credibility on the issue.
+ * False: A false statement, for our purposes, makes a factual, verifiable claim about the world which cannot be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
+ * Misleading: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
+ * Sole Source: This categorization applies when Breitbart makes a factual claim and explains how they learned it, but no independent source can confirm the story. This is not necessarily a reason for skepticism. For example, exclusive interviews fall under this classification.
+ * Opinion: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
+ * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
+
 Here is our data collection methodology:
 
- * Take a sample of dates in the past. The sample will be added to incrementally, and it will
-   consist of the Fridays in all weeks starting from the week of Nov. 18 2016 and adding
+ * We take a sample of dates in the past. The sample is being added to incrementally, and
+   consists of the Fridays in all weeks starting from the week of Nov. 18 2016 and adding
    data incrementally forwards and backwards in time.
- * Use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
- * Categorize each headline into one of the following categories (make more if necessary):
-   * True: A true statement, for our purposes, makes a factual, non-misleading claim about the world which can be verified on the basis of concrete evidence (including video or audio) or confirmation from an independent source which has credibility on the issue.
-   * False: A false statement, for our purposes, makes a factual, verifiable claim about the world which cannot be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
-   * Misleading: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
-   * Sole Source: This categorization applies when Breitbart makes a factual claim and explains how they learned it, but no independent source can confirm the story. This is not necessarily a reason for skepticism. For example, exclusive interviews fall under this classification.
-   * Opinion: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
-   * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
- * In each case record the explanation for the categorization.
- * In cases where a headline contains multiple claims, each claim should be rated and counted separately.
+ * We use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
+ * We categorize each headline into one of the categories we have, and in each case we record the explanation for the categorization.
+ * In cases where a headline contains multiple claims, each claim is rated and counted separately.
