@@ -39,7 +39,7 @@ Here is what the classifications mean:
 Here is our data collection methodology:
 
  * We take a sample of dates in the past. The sample is being added to incrementally, and
-   consists of the Fridays in all weeks starting from the week of Nov. 18 2016 and adding
+   consists of the Fridays in all weeks starting from the data we have and adding
    data incrementally forwards and backwards in time.
  * We use archive.org to get the front page of Breitbart on that day, using the first snapshot available for that day.
  * We categorize each headline into one of the categories we have, and in each case we record the explanation for the categorization.
