@@ -18,7 +18,16 @@ Sources: http://www.alexa.com/siteinfo/breitbart.com, http://www.alexa.com/topsi
 Factual Accuracy
 ----------------
 
-Planned to do a study of the factual accuracy of Breitbart. Proposed data collection methodology:
+We are studying the factual accuracy of the factual accuracy of Breitbart headlines. We are collecting and fact checking Breitbart headlines in a systematic faction. Here is a summary of how the headlines we have rated so far break down:
+
+ * **TRUE**: 8
+ * **FALSE**: 2
+ * **MISLEADING**: 1
+ * **SOLE SOURCE**: 6
+ * **OPINION**: 4
+ * **NON-STATEMENT**: 4
+
+Here is our data collection methodology:
 
  * Take a sample of dates in the past. The sample will be added to incrementally, and it will
    consist of the Fridays in all weeks starting from the week of Nov. 18 2016 and adding
@@ -33,7 +42,3 @@ Planned to do a study of the factual accuracy of Breitbart. Proposed data collec
    * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
  * In each case record the explanation for the categorization.
  * In cases where a headline contains multiple claims, each claim should be rated and counted separately.
-
-Data analysis methodology will be to give a count of the number of headlines in each of the categories.
-
-The foregoing data should tell us how accurate Breitbart headlines typically are. In addition, we should develop a running log of all known false statements Breitbart has made.

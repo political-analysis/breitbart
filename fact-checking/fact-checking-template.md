@@ -5,7 +5,7 @@ Counts for this headline page:
  * **TRUE**: 0
  * **FALSE**: 0
  * **MISLEADING**: 0
- * **UNVERIFIABLE**: 0
+ * **SOLE SOURCE**: 0
  * **OPINION**: 0
  * **NON-STATEMENT**: 0
 
