@@ -29,12 +29,12 @@ We are studying the factual accuracy of the factual accuracy of Breitbart headli
 
 Here is what the classifications mean:
 
- * True: A true statement, for our purposes, makes a factual, non-misleading claim about the world which can be verified on the basis of concrete evidence (including video or audio) or confirmation from an independent source which has credibility on the issue.
- * False: A false statement, for our purposes, makes a factual, verifiable claim about the world which cannot be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
- * Misleading: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
- * Sole Source: This categorization applies when Breitbart makes a factual claim and explains how they learned it, but no independent source can confirm the story. This is not necessarily a reason for skepticism. For example, exclusive interviews fall under this classification.
- * Opinion: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
- * Non-statement: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
+ * **TRUE**: A true statement, for our purposes, makes a factual, non-misleading claim about the world which can be verified on the basis of concrete evidence (including video or audio) or confirmation from an independent source which has credibility on the issue.
+ * **FALSE**: A false statement, for our purposes, makes a factual, verifiable claim about the world which cannot be verified on the basis of concrete evidence or confirmation from an independent source which has credibility on the issue.
+ * **MISLEADING**: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
+ * **SOLE SOURCE**: This categorization applies when Breitbart makes a factual claim and explains how they learned it, but no independent source can confirm the story. This is not necessarily a reason for skepticism. For example, exclusive interviews fall under this classification.
+ * **OPINION**: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
+ * **NON-STATEMENT**: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
 
 Here is our data collection methodology:
 
