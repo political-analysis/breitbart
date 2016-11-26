@@ -20,11 +20,11 @@ Factual Accuracy
 
 We are studying the factual accuracy of the factual accuracy of Breitbart headlines. We are collecting and fact checking Breitbart headlines in a systematic faction. Here is a summary of how the headlines we have rated so far break down:
 
- * **TRUE**: 8
+ * **TRUE**: 14
  * **FALSE**: 2
- * **MISLEADING**: 1
- * **SOLE SOURCE**: 6
- * **OPINION**: 4
+ * **MISLEADING**: 2
+ * **SOLE SOURCE**: 7
+ * **OPINION**: 5
  * **NON-STATEMENT**: 4
 
 Here is what the classifications mean:
@@ -34,7 +34,7 @@ Here is what the classifications mean:
  * **MISLEADING**: A misleading statement, for our purposes, is a statement which is a characterization of a true set of claims contained in the article, but which characterization is likely to give the reader an impression that is not supported by the facts provided in the article.
  * **SOLE SOURCE**: This categorization applies when Breitbart makes a factual claim and explains how they learned it, but no independent source can confirm the story. **This classification does not tell you whether the claim is true or false, and it does not necessarily constitute a reason for skepticism.** For example, exclusive interviews fall under this classification.
  * **OPINION**: An opinion, for our purposes, is any statement which is not a factual claim about the world, so that it is neither true nor false. Statements are usually opinions due to the nature of the language they contain; e.g. the use of metaphor or emotional judgments is likely to make a statement constitute an opinion.
- * **NON-STATEMENT**: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements.
+ * **NON-STATEMENT**: A statement is a complete sentence which makes a claim. Headlines which are not complete sentences, or are complete sentences which don't make a claim, are non-statements. It can be a matter of judgment how many claims are contained in a headline. In general we will err on the side of not splitting a headline into multiple claims, and typically we will only split a headline into multiple claims when different parts of what the headline claims require distinct, independent fact-checking efforts.
 
 Here is our data collection methodology:
 
